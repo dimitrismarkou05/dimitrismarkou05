@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- Working on: **FastAPI** powered automation tools
+- Currently working on: **FastAPI** powered automation tools
 - Open to collaborate on: Open source projects
 
 
