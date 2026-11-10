@@ -24,12 +24,6 @@
 - Automation tools and developer workflows
 - Integrating LLMs into practical applications
 
-## GitHub Stats & Activity
-
-<div align="center">
-  <img src="profile-3d-commits.svg" alt="GitHub activity visualization" width="100%" />
-</div>
-
 ## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
